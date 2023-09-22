@@ -43,7 +43,7 @@ class MyHomePage extends ConsumerWidget {
 
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Colors.green,
+        backgroundColor: Colors.indigo,
         title: Text(t.mainScreen.title),
       ),
       body: Center(
